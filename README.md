@@ -9,20 +9,20 @@ Methods used: BlackJack.enterParaComenzar();
                                                separates last move from next move with a line of "---").
                                                
 
-1   ________________  
-2  ((                ))
-3  )) BlackJack 21 (( 
-4  ((   por André    ))
-5    ----------------  
+ ________________  
+((                ))
+)) BlackJack 21 (( 
+((   por André    ))
+ ----------------  
 
 7 Presionar Enter para comenzar...
 
-10  _____  _____ 
-11 |4    ||5    |
-12 | o o || o o |
-13 |     ||  o  |
-14 | o o || o o |
-15 |____h||____S|
+ _____  _____ 
+|4    ||5    |
+| o o || o o |
+|     ||  o  |
+| o o || o o |
+|____h||____S|
 
 ▄▀▄ █▄ █ █▀▄ ▀▄▀ 
 █▀█ █ ▀█ █▄▀  █  tiene un puntaje total de: 9
