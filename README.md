@@ -9,7 +9,7 @@ Methods used: BlackJack.enterParaComenzar();
                                                separates last move from next move with a line of "---").
                                                
 
-NOTE: VIEW ON 
+NOTE: VIEW ON SOURCE BLOB OR DISPLAYMODE 
 
 
  ________________  
