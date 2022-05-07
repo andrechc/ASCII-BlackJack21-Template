@@ -16,7 +16,7 @@ NOTE: MUST VE VIEWED ON SOURCE BLOB OR RAW MODE TO SEE THE CONSOLE EXAMPLE
 NOTE: MUST VE VIEWED ON SOURCE BLOB OR RAW MODE TO SEE THE CONSOLE EXAMPLE
 
 
- ________________  
+  ________________  
 ((                ))
 )) BlackJack 21 (( 
 ((   por André    ))
