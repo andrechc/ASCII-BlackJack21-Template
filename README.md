@@ -31,7 +31,7 @@ NOTE: MUST VE VIEWED ON SOURCE BLOB OR RAW MODE TO SEE THE CONSOLE EXAMPLE
 | o o || o o |
 |____h||____S|
 
-▄▀▄ █▄ █ █▀▄ ▀▄▀ 
+▄▀▄ █▄ █ █▀▄ ▀▄▀ (FONT IS GENERATED BASED ON THE String name passed by the player.)
 █▀█ █ ▀█ █▄▀  █  tiene un puntaje total de: 9
 
 
