@@ -1,6 +1,7 @@
 # ASCII-BlackJack21-Template
 Project that I made from zero to create an ASCII BlackJack21 Template utilizing mapped cards that are shown side by side utilizing my own algorithm developed for MyConsoleFonts.
 
+
 ASCII BlackJack21 Demonstration: 
 Methods used: BlackJack.enterParaComenzar();
               Jugador.pedirCarta(); (Asks for a card, except for the first time that will always ask for 2).
@@ -9,7 +10,10 @@ Methods used: BlackJack.enterParaComenzar();
                                                separates last move from next move with a line of "---").
                                                
 
-NOTE: VIEW ON SOURCE BLOB OR DISPLAYMODE 
+NOTE: MUST VE VIEWED ON SOURCE BLOB OR RAW MODE TO SEE THE CONSOLE EXAMPLE
+NOTE: MUST VE VIEWED ON SOURCE BLOB OR RAW MODE TO SEE THE CONSOLE EXAMPLE
+NOTE: MUST VE VIEWED ON SOURCE BLOB OR RAW MODE TO SEE THE CONSOLE EXAMPLE
+NOTE: MUST VE VIEWED ON SOURCE BLOB OR RAW MODE TO SEE THE CONSOLE EXAMPLE
 
 
  ________________  
